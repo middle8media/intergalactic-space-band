@@ -1,0 +1,42 @@
+// non-theme specific Sass
+
+/*------------------------------------*
+    $General
+*------------------------------------*/
+
+.btn-center {
+    margin: auto;
+}
+
+/*------------------------------------*
+    $Header
+*------------------------------------*/
+.logo {
+	width: 40%;
+	border: 3px solid $black;
+
+	@media #{$small} {
+		width: 35%;
+	}
+
+	@media #{$medium} {
+		width: 23%;
+	}
+
+	@media #{$large} {
+		width: 20%;
+	}
+
+	@media #{$xlarge} {
+		width: 12%;
+	}
+}
+
+
+/*------------------------------------*
+    $Pitch Bible
+*------------------------------------*/
+
+.center {
+    text-align: center;
+}

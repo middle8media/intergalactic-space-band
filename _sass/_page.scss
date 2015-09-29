@@ -155,28 +155,6 @@ body {
 	}
 }
 
-.logo {
-	width: 40%;
-	border: 3px solid $black;
-
-	@media #{$small} {
-		width: 35%;
-	}
-
-	@media #{$medium} {
-		width: 23%;
-	}
-
-	@media #{$large} {
-		width: 20%;
-	}
-
-	@media #{$xlarge} {
-		width: 12%;
-	}
-
-
-}
 // Single Post and Page
 // --------------------------------------------------
 .entry-meta {
