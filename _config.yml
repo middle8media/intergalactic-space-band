@@ -11,8 +11,8 @@ words_per_minute: 200
 
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-# url: http://intergalacticspace.band
-url: http://localhost:4000
+url: http://intergalacticspace.band
+# url: http://localhost:4000
 
 # Owner/author information
 owner:
