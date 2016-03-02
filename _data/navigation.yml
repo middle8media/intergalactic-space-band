@@ -1,16 +1,10 @@
 # Menu navigation links
 
-# - title: Home
-#   url: /
-
-- title: About
-  url: /about/
+- title: Home
+  url: /
 
 - title: Animatic
   url: /animatic/
-
-- title: Pitch Bible
-  url: /pitch-bible/
 
 - title: Middle8Media
   url: http://middle8media.com

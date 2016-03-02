@@ -12,19 +12,18 @@
     $Header
 *------------------------------------*/
 .logo {
-	width: 40%;
-	border: 3px solid $black;
+	width: 65%;
 
 	@media #{$small} {
-		width: 35%;
+		width: 55%;
 	}
 
 	@media #{$medium} {
-		width: 23%;
+		width: 35%;
 	}
 
 	@media #{$large} {
-		width: 20%;
+		width: 28%;
 	}
 
 	@media #{$xlarge} {
