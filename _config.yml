@@ -23,9 +23,9 @@ owner:
 
   # Social networking links used in footer. Update and remove as you like.
   twitter: https://twitter.com/middle8media
-  facebook:
-  instagram:
-  tumblr:
+  # facebook:
+  # instagram:
+  # tumblr:
   # google plus id, include the '+', eg +mmistakes
   google_plus:
 

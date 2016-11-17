@@ -1,10 +1,11 @@
 # Menu navigation links
 
 - title: Home
-  url: /
+  url: /about
 
 - title: Animatic
   url: /animatic/
 
 - title: Concept Art
-  url: /concept-art/
+  # url: /concept-art/
+  url: /
